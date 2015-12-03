@@ -1,0 +1,10 @@
+# Ignore tout fichier ayant l'extension :
+*.log
+*.nav
+*.aux
+*.out
+*.snm
+*.toc
+*.pdf
+*.gz
+*.dvi
